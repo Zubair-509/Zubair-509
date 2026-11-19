@@ -46,7 +46,7 @@
 
 ## 📌 Currently
 
-- 📚 4th Semester — BS Software Engineering @ DHA Suffa University
+- 📚 5th Semester — BS Software Engineering @ DHA Suffa University
 - 🔨 Shipping: Buzzy Conversion & TrafficMind AI
 - 🤝 Open to internships, collabs & open source contributions
 - 📫 zubairrajput123rd@gmail.com
